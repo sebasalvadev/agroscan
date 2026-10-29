@@ -1,4 +1,4 @@
-AgroScan - Tesis / Startup 2026
+# AgroScan - Tesis / Startup 2026
 
 Plataforma web desarrollada como proyecto de tesis que combina Inteligencia Artificial e imágenes satelitales para el monitoreo de cultivos en el sector agroexportador.
 
